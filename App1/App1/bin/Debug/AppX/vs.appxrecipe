@@ -404,7 +404,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2019-05-24T06:19:15.582</Modified>
+      <Modified>2019-05-24T09:59:08.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.babelrc.js">
       <PackagePath>resources\bootstrap-4.0.0\.babelrc.js</PackagePath>
