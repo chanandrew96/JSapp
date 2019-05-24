@@ -28,6 +28,150 @@
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\album\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\album\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\blog\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\blog\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\carousel\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\carousel\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\checkout\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\checkout\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\cover\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\cover\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\dashboard\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\dashboard\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\floating-labels\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\floating-labels\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\grid\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\grid\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\jumbotron\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\jumbotron\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbar-bottom\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbar-bottom\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbar-fixed\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbar-fixed\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbar-static\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbar-static\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbars\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbars\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\pricing\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\pricing\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\product\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\product\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sign-in\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sign-in\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\starter-template\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\starter-template\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer-navbar\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer-navbar\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\index.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\alert.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\alert.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\button.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\button.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\carousel.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\carousel.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\collapse.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\collapse.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\dropdown.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\dropdown.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\modal.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\modal.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\popover.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\popover.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\scrollspy.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\scrollspy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\tab.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\tab.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\visual\tooltip.html">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\visual\tooltip.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\ads.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\ads.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\docs-navbar.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\docs-navbar.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\docs-sidebar.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\docs-sidebar.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\favicons.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\favicons.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\footer.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\footer.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\header.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\header.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\scripts.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\scripts.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\social.html">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\social.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\default.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\docs.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\docs.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\examples.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\examples.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\home.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\redirect.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\redirect.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_layouts\simple.html">
+      <PackagePath>resources\bootstrap-4.0.0\_layouts\simple.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
@@ -55,11 +199,1178 @@
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\brand\bootstrap-social-logo.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\brand\bootstrap-social-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\brand\bootstrap-social.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\brand\bootstrap-social.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\bootstrap-stack.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\bootstrap-stack.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\bootstrap-themes.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\bootstrap-themes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\android-chrome-192x192.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\android-chrome-192x192.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\android-chrome-512x512.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\android-chrome-512x512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\apple-touch-icon.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\apple-touch-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\favicon-16x16.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\favicon-16x16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\favicon-32x32.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\favicon-32x32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\mstile-144x144.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\mstile-144x144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\mstile-150x150.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\mstile-150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\mstile-310x150.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\mstile-310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\mstile-310x310.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\mstile-310x310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\mstile-70x70.png">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\mstile-70x70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\album.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\album.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\blog.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\blog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\carousel.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\carousel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\checkout.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\checkout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\cover.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\cover.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\dashboard.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\dashboard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\floating-labels.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\floating-labels.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\grid.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\grid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\jumbotron.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\jumbotron.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-bottom.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-bottom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-fixed.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-fixed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-static.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbar-static.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbars.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\navbars.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\offcanvas.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\offcanvas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\pricing.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\pricing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\product.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\product.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sign-in.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sign-in.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\starter-template.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\starter-template.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sticky-footer-navbar.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sticky-footer-navbar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sticky-footer.png">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\screenshots\sticky-footer.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.babelrc.js">
+      <PackagePath>resources\bootstrap-4.0.0\.babelrc.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\docs.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\docs.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\src\application.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\src\application.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\src\ie-emulation-modes-warning.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\src\ie-emulation-modes-warning.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\src\pwa.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\src\pwa.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\vendor\anchor.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\vendor\anchor.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\vendor\clipboard.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\vendor\clipboard.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\vendor\holder.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\vendor\holder.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\vendor\jquery-slim.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\vendor\jquery-slim.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\vendor\popper.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\vendor\popper.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\change-version.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\change-version.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\generate-sri.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\generate-sri.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\lint-vars.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\lint-vars.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\postcss.config.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\postcss.config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\rollup.config.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\rollup.config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\saucelabs-unit-test.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\saucelabs-unit-test.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\vnu-jar.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\vnu-jar.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\workbox.js">
+      <PackagePath>resources\bootstrap-4.0.0\build\workbox.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.js">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.js">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\offcanvas.js">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\offcanvas.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\tooltip-viewport.js">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\tooltip-viewport.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\alert.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\alert.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\button.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\button.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\carousel.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\carousel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\collapse.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\collapse.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\dropdown.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\dropdown.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\index.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\modal.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\modal.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\popover.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\popover.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\scrollspy.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\scrollspy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\tab.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\tab.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\tooltip.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\tooltip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\util.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\util.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\alert.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\alert.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\button.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\button.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\carousel.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\carousel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\collapse.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\collapse.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\dropdown.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\dropdown.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\index.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\modal.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\modal.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\popover.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\popover.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\scrollspy.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\scrollspy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\tab.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\tab.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\tooltip.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\tooltip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\src\util.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\src\util.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\karma.conf.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\karma.conf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\alert.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\alert.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\button.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\button.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\carousel.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\carousel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\collapse.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\collapse.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\dropdown.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\dropdown.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\modal.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\modal.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\popover.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\popover.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\scrollspy.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\scrollspy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\tab.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\tab.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\tooltip.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\tooltip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\util.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\util.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\vendor\jquery-1.9.1.min.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\vendor\jquery-1.9.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\vendor\qunit.js">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\vendor\qunit.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\package.js">
+      <PackagePath>resources\bootstrap-4.0.0\package.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\sw.js">
+      <PackagePath>resources\bootstrap-4.0.0\sw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\jquery\jquery-3.4.1.js">
+      <PackagePath>resources\jquery\jquery-3.4.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\jquery\jquery-3.4.1.min.js">
+      <PackagePath>resources\jquery\jquery-3.4.1.min.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\css\default.css">
       <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\css\docs.min.css">
+      <PackagePath>resources\bootstrap-4.0.0\assets\css\docs.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-grid.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-grid.min.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-grid.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.min.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap.min.css">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\album\album.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\album\album.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\blog\blog.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\blog\blog.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\carousel\carousel.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\carousel\carousel.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\checkout\form-validation.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\checkout\form-validation.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\cover\cover.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\cover\cover.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\dashboard\dashboard.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\dashboard\dashboard.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\floating-labels\floating-labels.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\floating-labels\floating-labels.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\grid\grid.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\grid\grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\jumbotron\jumbotron.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\jumbotron\jumbotron.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbar-fixed\navbar-top-fixed.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbar-fixed\navbar-top-fixed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbar-static\navbar-top.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbar-static\navbar-top.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\navbars\navbar.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\navbars\navbar.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\offcanvas.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\offcanvas\offcanvas.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\pricing\pricing.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\pricing\pricing.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\product\product.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\product\product.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sign-in\signin.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sign-in\signin.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\starter-template\starter-template.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\starter-template\starter-template.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer-navbar\sticky-footer-navbar.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer-navbar\sticky-footer-navbar.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer\sticky-footer.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\sticky-footer\sticky-footer.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\tooltip-viewport.css">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\tooltip-viewport\tooltip-viewport.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\vendor\qunit.css">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\vendor\qunit.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.editorconfig">
+      <PackagePath>resources\bootstrap-4.0.0\.editorconfig</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.eslintignore">
+      <PackagePath>resources\bootstrap-4.0.0\.eslintignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.eslintrc.json">
+      <PackagePath>resources\bootstrap-4.0.0\.eslintrc.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\manifest.json">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\manifest.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\js\.eslintrc.json">
+      <PackagePath>resources\bootstrap-4.0.0\assets\js\.eslintrc.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\.eslintrc.json">
+      <PackagePath>resources\bootstrap-4.0.0\build\.eslintrc.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\sauce_browsers.json">
+      <PackagePath>resources\bootstrap-4.0.0\build\sauce_browsers.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\workbox.config.json">
+      <PackagePath>resources\bootstrap-4.0.0\build\workbox.config.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\composer.json">
+      <PackagePath>resources\bootstrap-4.0.0\composer.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\.eslintrc.json">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\.eslintrc.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\unit\.eslintrc.json">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\unit\.eslintrc.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\package-lock.json">
+      <PackagePath>resources\bootstrap-4.0.0\package-lock.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\package.json">
+      <PackagePath>resources\bootstrap-4.0.0\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\sache.json">
+      <PackagePath>resources\bootstrap-4.0.0\sache.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.gitattributes">
+      <PackagePath>resources\bootstrap-4.0.0\.gitattributes</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.github\CONTRIBUTING.md">
+      <PackagePath>resources\bootstrap-4.0.0\.github\CONTRIBUTING.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.github\ISSUE_TEMPLATE.md">
+      <PackagePath>resources\bootstrap-4.0.0\.github\ISSUE_TEMPLATE.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\CODE_OF_CONDUCT.md">
+      <PackagePath>resources\bootstrap-4.0.0\CODE_OF_CONDUCT.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\about\brand.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\about\brand.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\about\license.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\about\license.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\about\overview.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\about\overview.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\about\translations.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\about\translations.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\browser-bugs.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\browser-bugs.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\alerts.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\alerts.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\badge.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\badge.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\breadcrumb.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\breadcrumb.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\button-group.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\button-group.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\buttons.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\buttons.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\card.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\card.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\carousel.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\carousel.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\collapse.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\collapse.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\dropdowns.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\dropdowns.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\forms.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\forms.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\input-group.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\input-group.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\jumbotron.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\jumbotron.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\list-group.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\list-group.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\modal.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\modal.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\navbar.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\navbar.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\navs.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\navs.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\pagination.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\pagination.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\popovers.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\popovers.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\progress.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\progress.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\scrollspy.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\scrollspy.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\components\tooltips.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\components\tooltips.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\code.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\code.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\figures.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\figures.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\images.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\images.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\reboot.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\reboot.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\tables.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\tables.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\content\typography.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\content\typography.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\extend\approach.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\extend\approach.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\extend\icons.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\extend\icons.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\extend\index.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\extend\index.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\accessibility.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\accessibility.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\best-practices.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\best-practices.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\browsers-devices.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\browsers-devices.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\build-tools.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\build-tools.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\contents.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\contents.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\download.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\download.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\introduction.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\introduction.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\javascript.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\javascript.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\theming.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\theming.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\getting-started\webpack.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\getting-started\webpack.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\layout\grid.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\layout\grid.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\layout\media-object.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\layout\media-object.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\layout\overview.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\layout\overview.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\layout\utilities-for-layout.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\layout\utilities-for-layout.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\migration.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\migration.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\borders.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\borders.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\clearfix.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\clearfix.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\close-icon.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\close-icon.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\colors.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\colors.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\display.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\display.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\embed.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\embed.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\flex.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\flex.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\float.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\float.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\image-replacement.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\image-replacement.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\position.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\position.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\screenreaders.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\screenreaders.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\sizing.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\sizing.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\spacing.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\spacing.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\text.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\text.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\vertical-align.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\vertical-align.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\utilities\visibility.md">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\utilities\visibility.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\tests\README.md">
+      <PackagePath>resources\bootstrap-4.0.0\js\tests\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\README.md">
+      <PackagePath>resources\bootstrap-4.0.0\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\callout-danger-async-methods.md">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\callout-danger-async-methods.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\callout-info-mediaqueries-breakpoints.md">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\callout-info-mediaqueries-breakpoints.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\callout-warning-color-assistive-technologies.md">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\callout-warning-color-assistive-technologies.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.gitignore">
+      <PackagePath>resources\bootstrap-4.0.0\.gitignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.stylelintignore">
+      <PackagePath>resources\bootstrap-4.0.0\.stylelintignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.stylelintrc">
+      <PackagePath>resources\bootstrap-4.0.0\.stylelintrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\docs\4.0\examples\.stylelintrc">
+      <PackagePath>resources\bootstrap-4.0.0\docs\4.0\examples\.stylelintrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\.travis.yml">
+      <PackagePath>resources\bootstrap-4.0.0\.travis.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_config.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_config.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\breakpoints.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\breakpoints.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\browser-bugs.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\browser-bugs.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\browser-features.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\browser-features.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\colors.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\colors.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\examples.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\examples.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\grays.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\grays.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\nav.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\nav.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\theme-colors.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\theme-colors.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_data\translations.yml">
+      <PackagePath>resources\bootstrap-4.0.0\_data\translations.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\brand\bootstrap-outline.svg">
+      <PackagePath>resources\bootstrap-4.0.0\assets\brand\bootstrap-outline.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\brand\bootstrap-punchout.svg">
+      <PackagePath>resources\bootstrap-4.0.0\assets\brand\bootstrap-punchout.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\brand\bootstrap-solid.svg">
+      <PackagePath>resources\bootstrap-4.0.0\assets\brand\bootstrap-solid.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\safari-pinned-tab.svg">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\safari-pinned-tab.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\bootstrap.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\bootstrap.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\download.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\download.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\github.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\github.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\import.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\import.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\lightning.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\lightning.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\menu.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\menu.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\slack.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\slack.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_includes\icons\twitter.svg">
+      <PackagePath>resources\bootstrap-4.0.0\_includes\icons\twitter.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\css\docs.min.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\assets\css\docs.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-grid.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-grid.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-grid.min.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-grid.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.min.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap-reboot.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\css\bootstrap.min.css.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\css\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.min.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.bundle.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\dist\js\bootstrap.min.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\dist\js\bootstrap.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\alert.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\alert.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\button.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\button.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\carousel.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\carousel.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\collapse.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\collapse.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\dropdown.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\dropdown.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\index.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\index.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\modal.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\modal.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\popover.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\popover.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\scrollspy.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\scrollspy.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\tab.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\tab.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\tooltip.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\tooltip.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\js\dist\util.js.map">
+      <PackagePath>resources\bootstrap-4.0.0\js\dist\util.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\jquery\jquery-3.4.1.min.map">
+      <PackagePath>resources\jquery\jquery-3.4.1.min.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\img\favicons\browserconfig.xml">
+      <PackagePath>resources\bootstrap-4.0.0\assets\img\favicons\browserconfig.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\docs.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\docs.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_ads.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_ads.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_algolia.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_algolia.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_anchor.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_anchor.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_brand.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_brand.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_browser-bugs.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_browser-bugs.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_buttons.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_buttons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_callouts.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_callouts.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_clipboard-js.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_clipboard-js.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_colors.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_colors.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_component-examples.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_component-examples.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_content.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_content.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_examples.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_examples.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_footer.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_footer.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_masthead.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_masthead.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_nav.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_nav.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_sidebar.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_sidebar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_skiplink.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_skiplink.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_syntax.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_syntax.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\assets\scss\_variables.scss">
+      <PackagePath>resources\bootstrap-4.0.0\assets\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\bootstrap-grid.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\bootstrap-grid.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\bootstrap-reboot.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\bootstrap-reboot.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\bootstrap.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\bootstrap.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_alert.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_alert.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_background-variant.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_background-variant.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_badge.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_badge.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_border-radius.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_border-radius.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_box-shadow.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_box-shadow.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_breakpoints.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_breakpoints.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_buttons.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_buttons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_caret.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_caret.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_clearfix.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_clearfix.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_float.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_float.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_forms.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_forms.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_gradients.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_gradients.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_grid-framework.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_grid-framework.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_grid.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_grid.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_hover.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_hover.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_image.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_image.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_list-group.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_list-group.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_lists.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_lists.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_nav-divider.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_nav-divider.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_navbar-align.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_navbar-align.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_pagination.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_pagination.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_reset-text.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_reset-text.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_resize.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_resize.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_screen-reader.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_screen-reader.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_size.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_size.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_table-row.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_table-row.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_text-emphasis.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_text-emphasis.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_text-hide.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_text-hide.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_text-truncate.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_text-truncate.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_transition.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_transition.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\mixins\_visibility.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\mixins\_visibility.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_align.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_align.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_background.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_background.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_borders.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_borders.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_clearfix.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_clearfix.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_display.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_display.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_embed.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_embed.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_flex.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_flex.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_float.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_float.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_position.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_position.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_screenreaders.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_screenreaders.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_sizing.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_sizing.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_spacing.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_spacing.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_text.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_text.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\utilities\_visibility.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\utilities\_visibility.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_alert.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_alert.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_badge.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_badge.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_breadcrumb.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_breadcrumb.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_button-group.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_button-group.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_buttons.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_buttons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_card.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_card.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_carousel.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_carousel.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_close.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_close.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_code.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_code.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_custom-forms.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_custom-forms.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_dropdown.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_dropdown.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_forms.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_forms.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_functions.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_functions.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_grid.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_grid.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_images.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_images.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_input-group.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_input-group.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_jumbotron.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_jumbotron.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_list-group.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_list-group.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_media.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_media.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_mixins.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_mixins.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_modal.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_modal.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_nav.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_nav.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_navbar.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_navbar.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_pagination.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_pagination.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_popover.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_popover.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_print.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_print.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_progress.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_progress.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_reboot.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_reboot.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_root.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_root.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_tables.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_tables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_tooltip.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_tooltip.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_transitions.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_transitions.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_type.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_type.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_utilities.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_utilities.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\scss\_variables.scss">
+      <PackagePath>resources\bootstrap-4.0.0\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\.htmllintrc">
+      <PackagePath>resources\bootstrap-4.0.0\build\.htmllintrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\gcp-key.json.enc">
+      <PackagePath>resources\bootstrap-4.0.0\build\gcp-key.json.enc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\ship.sh">
+      <PackagePath>resources\bootstrap-4.0.0\build\ship.sh</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\build\upload-preview.sh">
+      <PackagePath>resources\bootstrap-4.0.0\build\upload-preview.sh</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\CNAME">
+      <PackagePath>resources\bootstrap-4.0.0\CNAME</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\Gemfile">
+      <PackagePath>resources\bootstrap-4.0.0\Gemfile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\LICENSE">
+      <PackagePath>resources\bootstrap-4.0.0\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\favicon.ico">
+      <PackagePath>resources\bootstrap-4.0.0\favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\Gemfile.lock">
+      <PackagePath>resources\bootstrap-4.0.0\Gemfile.lock</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\nuget\bootstrap.nuspec">
+      <PackagePath>resources\bootstrap-4.0.0\nuget\bootstrap.nuspec</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\nuget\bootstrap.sass.nuspec">
+      <PackagePath>resources\bootstrap-4.0.0\nuget\bootstrap.sass.nuspec</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\nuget\MyGet.ps1">
+      <PackagePath>resources\bootstrap-4.0.0\nuget\MyGet.ps1</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\robots.txt">
+      <PackagePath>resources\bootstrap-4.0.0\robots.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_plugins\bugify.rb">
+      <PackagePath>resources\bootstrap-4.0.0\_plugins\bugify.rb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_plugins\callout.rb">
+      <PackagePath>resources\bootstrap-4.0.0\_plugins\callout.rb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_plugins\example.rb">
+      <PackagePath>resources\bootstrap-4.0.0\_plugins\example.rb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\resources\bootstrap-4.0.0\_plugins\markdown-block.rb">
+      <PackagePath>resources\bootstrap-4.0.0\_plugins\markdown-block.rb</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
