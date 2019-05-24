@@ -1,0 +1,17 @@
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bin\Debug\ReverseMap\resources.pri
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\App1.jsproj.CoreCompileInputs.cache
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\ResourceHandlingTask.state
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\priconfig.xml
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\layout.resfiles
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\resources.resfiles
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\pri.resfiles
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\pri.resfiles.intermediate
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\qualifiers.txt
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\andrewchan\Desktop\Andrew\Personal\JSWeb\App1\App1\bld\Debug\ProjectArchitectures.txt
